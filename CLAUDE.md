@@ -44,10 +44,10 @@ Links in Listen immer in Anführungszeichen: `projekte: ["[[BfM Studio]]", "[[Fl
 
 ## Todos
 
-Todos stehen dort, wo sie entstanden sind (Meeting- oder Projektnotiz). Die Dashboards sammeln sie automatisch ein. Format (Tasks-Plugin), Reihenfolge einhalten:
+Todos stehen dort, wo sie entstanden sind (Meeting- oder Projektnotiz). Die Dashboards sammeln sie automatisch ein. Format (Tasks-Plugin), Reihenfolge einhalten, so schreibt sie auch das Plugin selbst:
 
 ```
-- [ ] Beschreibung mit Verb [[Projekt]] [[Person]] #tag 🔺 📅 2026-11-20 ➕ 2026-11-13
+- [ ] Beschreibung mit Verb [[Projekt]] [[Person]] #tag 🔺 ➕ 2026-11-13 📅 2026-11-20
 ```
 
 - **Meine Todos**: kein Tag. Immer das Projekt verlinken, wenn es eines gibt.
@@ -62,6 +62,11 @@ Todos stehen dort, wo sie entstanden sind (Meeting- oder Projektnotiz). Die Dash
 ## Wochenreview (freitags)
 
 Datei `60 Journal/Wochen/JJJJ-KWnn.md` nach Vorlage. Inhalt: Was passiert ist (5 bis 8 Punkte mit Links), was erledigt wurde, was hängt (überfällig, lange wartend, Projekte ohne Bewegung seit 3 Wochen), Fokus für nächste Woche. Danach Inbox leeren und Projekt-Status aktualisieren.
+
+## Dateinamen
+
+- Umlaute in Dateinamen immer in Unicode-NFC schreiben. macOS legt sonst eine zweite Schreibweise an, und Git sieht doppelte Dateien.
+- Keine Zeichen `: / \\ ? * " < > |` in Dateinamen.
 
 ## Sprache und Stil
 
