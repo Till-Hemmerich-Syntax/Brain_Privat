@@ -27,5 +27,7 @@
   "zk-prefixer": false,
   "publish": false,
   "sync": false,
-  "bases": false
+  "bases": false,
+  "footnotes": false,
+  "webviewer": false
 }

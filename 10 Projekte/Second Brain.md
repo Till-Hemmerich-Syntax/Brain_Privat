@@ -23,7 +23,7 @@ await dv.view("99 System/Scripts/project-panel")
 - Übergangsweise läuft ein stündlicher Task, der Meeting-Todos in ein Claude Sheet schreibt.
 
 ## Todos
-- [ ] GitHub-Repos anlegen (Arbeit in der Org syntaxinstitut, Privat im eigenen Account) und Remotes eintragen [[Second Brain]] 📅 2026-11-16 ➕ 2026-11-13
+- [x] GitHub-Repos anlegen (Arbeit in der Org syntaxinstitut, Privat im eigenen Account) und Remotes eintragen [[Second Brain]] ➕ 2026-11-13 📅 2026-11-16 ✅ 2026-11-13
 - [ ] Meeting-Task von Sheet auf Arbeits-Vault umstellen lassen [[Second Brain]] ➕ 2026-11-13
 
 ```dataviewjs
