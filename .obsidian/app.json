@@ -1,0 +1,17 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "99 System/Anhänge",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "showInlineTitle": true,
+  "propertiesInDocument": "hidden",
+  "userIgnoreFilters": [
+    "99 System/Scripts/",
+    "99 System/Anhänge/"
+  ],
+  "promptDelete": true
+}

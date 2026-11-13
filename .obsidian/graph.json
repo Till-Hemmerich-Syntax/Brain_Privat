@@ -1,0 +1,41 @@
+{
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "search": "-path:\"99 System\"",
+  "colorGroups": [
+    {
+      "query": "path:\"10 Projekte\"",
+      "color": {
+        "a": 1,
+        "rgb": 1096065
+      }
+    },
+    {
+      "query": "path:\"20 Bereiche\"",
+      "color": {
+        "a": 1,
+        "rgb": 440020
+      }
+    },
+    {
+      "query": "path:\"50 Personen\"",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "path:\"40 Meetings\"",
+      "color": {
+        "a": 1,
+        "rgb": 9741240
+      }
+    }
+  ],
+  "nodeSizeMultiplier": 1.1,
+  "lineSizeMultiplier": 0.8,
+  "linkDistance": 220,
+  "repelStrength": 12
+}

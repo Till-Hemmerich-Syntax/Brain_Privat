@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1794533482301,
+      "title": "Dashboards",
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1794533482301,
+          "path": "Home.md",
+          "title": "Home"
+        },
+        {
+          "type": "file",
+          "ctime": 1794533482302,
+          "path": "99 System/Dashboards/Todos.md",
+          "title": "Todos"
+        },
+        {
+          "type": "file",
+          "ctime": 1794533482303,
+          "path": "99 System/Dashboards/Projekte.md",
+          "title": "Projekte"
+        },
+        {
+          "type": "file",
+          "ctime": 1794533482304,
+          "path": "99 System/Dashboards/Personen.md",
+          "title": "Personen"
+        },
+        {
+          "type": "file",
+          "ctime": 1794533482305,
+          "path": "99 System/Dashboards/Meetings.md",
+          "title": "Meetings"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "ctime": 1794533482310,
+      "path": "CLAUDE.md",
+      "title": "Regeln für Claude"
+    }
+  ]
+}

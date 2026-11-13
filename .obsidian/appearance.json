@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "accentColor": "#10b981",
+  "enabledCssSnippets": [
+    "brain",
+    "akzent"
+  ],
+  "baseFontSize": 16,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "translucency": false
+}

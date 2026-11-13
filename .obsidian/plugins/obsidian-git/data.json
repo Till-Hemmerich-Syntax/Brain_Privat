@@ -1,0 +1,19 @@
+{
+  "commitMessage": "till: {{date}}",
+  "autoCommitMessage": "till: auto {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm",
+  "autoSaveInterval": 5,
+  "autoPushInterval": 0,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "disablePopupsForNoChanges": true,
+  "showStatusBar": true,
+  "syncMethod": "merge",
+  "listChangedFilesInMessageBody": false,
+  "showedMobileNotice": true,
+  "refreshSourceControl": true,
+  "changedFilesInStatusBar": false
+}
